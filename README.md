@@ -40,7 +40,7 @@
 
 <p align="center">
  <a href="https://roshankumarb31.github.io/Portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Roshan" />
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Roshan" />
  </a>
  <a href="https://www.linkedin.com/in/roshan-kumar-b-ab6147268/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roshan"/>
@@ -126,4 +126,3 @@
 
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roshankumarb31&custom_title=Roshan%20Kumar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
