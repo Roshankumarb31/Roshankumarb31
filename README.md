@@ -117,13 +117,31 @@
   <a href="https://github.com/Roshankumarb31?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=black"/></a>
 </p>
 
-<br/>
-<hr/>
-<br/>
+<!--
+
+## Trophy
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshankumarb31&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshankumarb31&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+
+## GitHub Stats
+
+
 
 <p align="center">
   <a href="https://github.com/Roshankumarb31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshankumarb31&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshankumarb31&theme=radical&border=7F3FBF&background=0D1117" alt="Roshan GitHub streak"/>
   </a>
 </p>
 
